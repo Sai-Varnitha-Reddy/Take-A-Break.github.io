@@ -1,0 +1,104 @@
+nav img{
+	float:left;
+	width:15%;
+	height:15%;
+	
+
+}
+.total{
+	display:flex;
+
+
+}
+.top{
+	float:right;
+	display:flex;
+	margin-right:0 auto;
+	padding:40px;
+	padding-left:150px;
+}
+nav a{
+	text-decoration: none;
+	padding:60px;
+	font-family: Ariel;
+	font-size:130%;
+	color:#cfb53b;
+	font-weight:bolder;
+
+}
+h3 {
+background-color:#CD6600;
+color:white;
+font-variant: small-caps;
+text-align:left;
+margin-top:0px;
+margin-bottom:10px;
+
+}
+summary{
+font-family: arial;
+    font-style: italic;
+    color:#8B5A00;
+}
+section{
+background-color:#DEB887;
+display:inline-block;
+float:left;
+width:120%;
+
+
+}
+a{
+text-decoration: none;
+color:white;
+}
+ul{
+list-style-image:url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/389177/lightning.png");
+font-family:"Verdana,sans-serif";
+color:#bfff00;
+}
+a:hover{
+/*background-color:grey;*/
+color:#CD6600;
+text-decoration: underline;
+text-decoration-color:#CD6600;
+}
+.middle{
+	display:flex;
+}
+.pro{
+	float:center;
+	margin:10px;
+	width:300%;
+	text-align:center;
+	display:flex;
+}
+body{
+	background-color: black;
+}
+h2{
+	background-color:#cfb53b;
+	margin-bottom:0px;
+}
+.img2{
+	height:50%;
+	width:150%;
+	margin-left:380px;
+}
+nav div.img2:hover{
+	opacity:0.3;
+
+}
+legend {
+color: green;
+}
+label {
+color: black;
+}
+iframe{
+	margin-left:400px;
+}
+
+
+
+
